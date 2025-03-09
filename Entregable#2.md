@@ -17,7 +17,8 @@ Jesus Valverde Ureña - 2022437462 y Ana Hernández Muñoz - 2023057623
 2. Crear los diferentes tipos de cuentas, ya sean empresariales o personales, con sus respectivos tipos de usuario.
 
 ## 5. Diseñe los wireframes en blanco y negro de las pantallas necesarias para esos flujos prioridad #1 para el negocio
-
+![Wireframe Crear Cuenta](Images/WCrearCuenta.png)
+![Wireframe Añadir Nueva Tarea](Images/WNuevaTarea.png)
 ## 6. Cree las pantallas a modo mockup o mimic utilizando alguna AI que genere código en el lenguaje que haya seleccionado en el entregable #1. Si ninguna AI genera para ese lenguaje, entonces proceda a utilizar plantillas para crear las pantallas diseñadas
 
 ## 7. Proceda a realizar un test de usabilidad con al menos 3 personas (que no sean estudiantes del Tec), de las pantallas diseñadas utilizando alguna herramienta de testing de usuabilidad digital en la nube, recopile los resultados
