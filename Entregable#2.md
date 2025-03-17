@@ -23,3 +23,4 @@ Jesus Valverde Ureña - 2022437462 y Ana Hernández Muñoz - 2023057623
 ![Crear Cuenta](Images/CrearCuenta.png)
 ![Añadir Nueva Tarea](Images/NuevaTarea.png)
 ## 7. Proceda a realizar un test de usabilidad con al menos 3 personas (que no sean estudiantes del Tec), de las pantallas diseñadas utilizando alguna herramienta de testing de usuabilidad digital en la nube, recopile los resultados
+La evidencia se encuentra en la plataforma de loop11, se mostrará al profesor en la revisión
